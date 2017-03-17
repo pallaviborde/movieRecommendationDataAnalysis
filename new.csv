@@ -1,0 +1,523 @@
+country,generes,count
+Sweden,Thriller,2
+USA,Thriller,1050
+Spain,Horror,5
+,Comedy,2
+UK,Short,1
+Japan,Horror,4
+Hong Kong,Crime,5
+India,Animation,1
+New Zealand,Adventure,7
+UK,Horror,40
+Nigeria,Drama,1
+Panama,Drama,1
+Canada,Sci-Fi,22
+Nigeria,Thriller,1
+South Africa,Action,2
+China,Comedy,6
+Belgium,Comedy,1
+Official site,Drama,1
+Netherlands,Mystery,1
+Japan,History,1
+Egypt,Drama,1
+Mexico,Animation,1
+USA,Drama,1852
+Ireland,Horror,3
+Switzerland,Thriller,1
+West Germany,Thriller,1
+Sweden,Romance,2
+Denmark,Comedy,1
+Ireland,Action,2
+,Drama,3
+Canada,Crime,18
+Romania,Horror,1
+Italy,Comedy,6
+Russia,Adventure,7
+Netherlands,Thriller,1
+France,Romance,33
+Sweden,Mystery,1
+Panama,Action,1
+USA,War,114
+Czech Republic,Romance,1
+Greece,Sci-Fi,1
+Canada,Romance,17
+Aruba,Action,1
+Australia,War,6
+Cambodia,Thriller,1
+Slovenia,Comedy,1
+West Germany,Adventure,2
+Brazil,Drama,8
+Sweden,Action,3
+,Adventure,1
+China,Fantasy,3
+Argentina,Drama,4
+Canada,Musical,2
+USA,History,109
+China,History,11
+South Korea,Western,1
+Soviet Union,Drama,1
+New Zealand,Fantasy,3
+Hong Kong,History,2
+Australia,Family,8
+Germany,Drama,54
+Mexico,Western,1
+Israel,Romance,1
+Italy,Biography,1
+Spain,Thriller,13
+China,War,5
+Japan,Drama,8
+Poland,Mystery,1
+Sweden,Crime,3
+Spain,Action,2
+India,Romance,18
+USA,Sport,151
+France,Crime,39
+Canada,Drama,65
+Germany,Fantasy,11
+Kyrgyzstan,History,1
+South Africa,Sci-Fi,2
+South Korea,Mystery,2
+New Zealand,Drama,12
+Netherlands,War,2
+Canada,Western,4
+Germany,Romance,24
+Australia,Fantasy,5
+Romania,Fantasy,1
+Canada,Animation,3
+Taiwan,Action,2
+Netherlands,Crime,1
+United Arab Emirates,Family,1
+Poland,Action,1
+Denmark,Crime,2
+Canada,Family,11
+France,Family,12
+UK,Musical,9
+Sweden,Adventure,1
+Czech Republic,Comedy,1
+Hungary,Romance,2
+UK,Comedy,128
+UK,Thriller,137
+Canada,History,4
+Japan,Animation,10
+Official site,Music,1
+India,Fantasy,1
+Chile,Biography,1
+Hong Kong,Animation,2
+,Thriller,1
+Japan,Comedy,4
+Japan,Mystery,2
+Netherlands,Drama,4
+United Arab Emirates,Documentary,1
+New Line,Comedy,1
+South Africa,Biography,2
+UK,Fantasy,46
+Iran,Family,1
+New Zealand,Western,2
+France,Horror,13
+Brazil,Romance,1
+South Africa,Comedy,1
+Spain,Comedy,4
+UK,Action,91
+USA,News,2
+New Zealand,Crime,2
+Spain,Sport,1
+,Mystery,1
+Canada,Music,3
+India,Family,1
+South Korea,Sci-Fi,2
+Germany,Documentary,2
+Australia,Comedy,16
+Brazil,Action,2
+,Documentary,1
+Kenya,Drama,1
+Sweden,Drama,5
+New Zealand,Documentary,1
+Argentina,Thriller,2
+USA,Reality-TV,1
+Slovakia,History,1
+Israel,Drama,2
+Sweden,Comedy,1
+Canada,Biography,6
+New Zealand,Music,1
+West Germany,Fantasy,1
+Australia,Musical,2
+Israel,Documentary,3
+Ireland,Comedy,4
+USA,Short,4
+Thailand,Thriller,2
+China,Action,18
+France,Music,7
+Iran,Drama,3
+Australia,Biography,5
+USA,Mystery,371
+Denmark,Musical,1
+Taiwan,Drama,2
+Canada,Fantasy,14
+Canada,Horror,29
+Australia,Thriller,16
+Soviet Union,Sci-Fi,1
+Iran,Adventure,1
+Afghanistan,Drama,1
+Italy,Horror,3
+Argentina,Mystery,1
+UK,Adventure,98
+Thailand,Adventure,2
+Bulgaria,Thriller,1
+France,Biography,13
+Iran,Action,1
+France,Fantasy,14
+Israel,Comedy,1
+Belgium,Family,1
+Cambodia,Drama,1
+Nigeria,Action,1
+Mexico,Action,1
+Spain,Adventure,5
+Bahamas,Drama,1
+South Korea,Adventure,2
+Bulgaria,Action,1
+USA,Game-Show,1
+Thailand,Crime,2
+Romania,Thriller,1
+Poland,Crime,1
+Italy,Romance,6
+Romania,Drama,3
+Finland,Comedy,1
+Australia,Music,2
+Mexico,Drama,14
+Netherlands,Adventure,1
+South Africa,Crime,1
+South Africa,Animation,2
+Egypt,History,1
+Turkey,Adventure,1
+Dominican Republic,Crime,1
+Greece,Thriller,2
+Indonesia,Action,1
+Mexico,History,3
+Hong Kong,Adventure,1
+Germany,Comedy,32
+Russia,Mystery,2
+Slovakia,Fantasy,1
+Italy,Mystery,2
+Cameroon,Documentary,1
+Mexico,Romance,3
+Thailand,War,1
+USA,Film-Noir,6
+Chile,History,1
+Turkey,Action,1
+Mexico,War,3
+Denmark,Sci-Fi,3
+India,Musical,4
+Australia,Sport,1
+Italy,Crime,7
+India,Thriller,7
+Indonesia,Crime,1
+China,Family,2
+South Africa,Thriller,1
+Italy,War,2
+Spain,Biography,2
+Czech Republic,Thriller,2
+Hong Kong,Comedy,9
+Switzerland,Music,1
+Japan,Crime,1
+Egypt,Documentary,1
+Hong Kong,Sport,1
+Iceland,Comedy,1
+UK,Crime,77
+Norway,Crime,2
+UK,Romance,108
+New Zealand,Comedy,1
+Iceland,Thriller,1
+Ireland,Biography,1
+South Africa,Romance,2
+China,Romance,5
+Aruba,Comedy,1
+Libya,History,1
+Italy,Western,3
+USA,Western,73
+Russia,Action,2
+Belgium,Drama,1
+Spain,Fantasy,2
+West Germany,War,1
+Spain,Drama,24
+Norway,Romance,1
+Norway,Family,1
+South Africa,History,1
+Russia,Crime,1
+France,Drama,98
+Switzerland,Comedy,1
+Ireland,Mystery,1
+France,Thriller,56
+Germany,Horror,10
+India,Action,7
+South Korea,Crime,1
+Denmark,Drama,9
+Hungary,Comedy,1
+China,Crime,2
+Kyrgyzstan,Drama,1
+Germany,Crime,29
+New Zealand,Romance,5
+Russia,War,1
+New Zealand,Sport,1
+Pakistan,Family,1
+Czech Republic,Drama,2
+South Africa,Drama,5
+Mexico,Crime,1
+USA,Comedy,1529
+,Reality-TV,1
+Switzerland,Mystery,1
+Peru,Thriller,1
+China,Animation,2
+USA,Horror,438
+Slovakia,Drama,1
+Egypt,News,1
+Taiwan,Romance,1
+India,Adventure,3
+Netherlands,Fantasy,1
+,Romance,1
+USA,Action,861
+Thailand,Action,4
+India,Comedy,14
+Czech Republic,Horror,1
+Israel,War,2
+UK,War,33
+Canada,Documentary,2
+Spain,Romance,8
+Czech Republic,War,1
+South Africa,Adventure,3
+Denmark,Documentary,1
+South Korea,Drama,10
+Denmark,History,1
+USA,Crime,672
+France,Action,31
+Sweden,War,1
+Norway,Fantasy,1
+Iran,History,1
+Germany,Animation,4
+Mexico,Adventure,3
+Spain,Family,2
+Bahamas,Thriller,1
+France,Documentary,4
+India,War,3
+Japan,Action,12
+New Zealand,Thriller,1
+Norway,Thriller,1
+South Korea,Thriller,5
+Russia,Thriller,4
+Switzerland,Drama,1
+Spain,Musical,1
+Libya,Biography,1
+UK,Sci-Fi,46
+Mexico,Family,1
+Peru,Drama,1
+Norway,Comedy,4
+Italy,Drama,15
+Norway,Horror,2
+Hong Kong,War,1
+Italy,Thriller,3
+West Germany,Horror,1
+France,War,15
+Australia,Adventure,16
+Hong Kong,Thriller,2
+Slovakia,Biography,1
+Germany,Thriller,33
+Australia,Horror,10
+UK,Biography,57
+Libya,War,1
+South Korea,Animation,1
+Germany,War,6
+Russia,History,1
+Hong Kong,Romance,3
+Czech Republic,Fantasy,1
+Iceland,Drama,3
+Brazil,Crime,2
+Peru,Crime,1
+Russia,Family,2
+Nigeria,Crime,1
+France,History,9
+Libya,Drama,1
+Georgia,Action,1
+Hong Kong,Biography,2
+Germany,Biography,9
+Norway,Adventure,1
+Germany,Sci-Fi,11
+China,Biography,1
+Colombia,Drama,1
+Australia,Animation,2
+Canada,Action,26
+Philippines,Thriller,1
+West Germany,Mystery,1
+India,History,4
+Kyrgyzstan,Action,1
+Peru,Action,1
+USA,Music,173
+USA,Musical,110
+Ireland,Thriller,4
+Aruba,Thriller,1
+Belgium,Action,2
+UK,Sport,14
+Japan,Sci-Fi,8
+Ireland,Drama,7
+Netherlands,Comedy,1
+Pakistan,Comedy,1
+Italy,Adventure,2
+Italy,History,2
+France,Sport,1
+Bulgaria,Sci-Fi,1
+Japan,Romance,1
+New Zealand,Mystery,1
+Australia,Action,16
+Germany,Action,26
+Japan,Adventure,14
+Belgium,Biography,1
+Australia,Drama,28
+USA,Animation,182
+USA,Documentary,90
+USA,Adventure,685
+South Africa,Family,2
+Denmark,Thriller,2
+Kyrgyzstan,Biography,1
+Spain,Sci-Fi,2
+Hong Kong,Fantasy,3
+Belgium,Fantasy,1
+France,Comedy,41
+New Zealand,Action,6
+Australia,History,2
+Australia,Mystery,7
+Ireland,Music,1
+France,Mystery,15
+New Zealand,Biography,3
+Belgium,Sci-Fi,2
+Iceland,Romance,1
+Denmark,Fantasy,1
+Spain,War,4
+South Korea,Action,7
+Netherlands,Action,1
+New Zealand,Family,1
+Canada,Thriller,39
+Czech Republic,Crime,1
+India,Sci-Fi,1
+UK,Mystery,50
+Georgia,War,1
+Colombia,Crime,1
+Belgium,Adventure,3
+Denmark,Animation,1
+Soviet Union,Mystery,1
+UK,Animation,12
+Brazil,Comedy,2
+Panama,Biography,1
+South Korea,Fantasy,2
+South Korea,Horror,3
+Germany,Mystery,11
+Russia,Drama,4
+Hungary,Drama,1
+USA,Fantasy,487
+China,Drama,18
+Germany,Sport,4
+UK,Drama,265
+Thailand,Family,1
+France,Musical,3
+Australia,Crime,4
+China,Thriller,2
+Argentina,Crime,1
+Australia,Documentary,1
+Canada,War,3
+Australia,Romance,13
+Denmark,Adventure,1
+Denmark,Action,2
+France,Adventure,20
+Chile,Drama,1
+Netherlands,History,1
+Israel,Biography,1
+Hong Kong,Drama,6
+Belgium,Animation,1
+USA,Biography,179
+Russia,Animation,3
+India,Crime,1
+Spain,Animation,2
+Dominican Republic,Drama,1
+Hong Kong,Sci-Fi,4
+Japan,Family,7
+Japan,Thriller,5
+China,Adventure,12
+Switzerland,Biography,1
+Hong Kong,Family,3
+France,Animation,12
+Greece,Adventure,1
+Cambodia,Sci-Fi,1
+Poland,Thriller,2
+Thailand,Fantasy,1
+New Zealand,Horror,1
+USA,Romance,839
+Israel,Animation,1
+Japan,War,1
+Thailand,History,1
+Russia,Sci-Fi,2
+Spain,Mystery,9
+Greece,Drama,2
+Germany,History,3
+UK,Western,4
+Ireland,Crime,3
+Switzerland,Romance,2
+Canada,Adventure,13
+Sweden,Music,1
+South Korea,Comedy,4
+Mexico,Comedy,6
+West Germany,Family,1
+Canada,Mystery,18
+Spain,Western,2
+Hungary,War,1
+Finland,Drama,1
+Ireland,Romance,5
+France,Western,3
+India,Biography,3
+Hungary,Family,1
+Switzerland,Sci-Fi,1
+France,Sci-Fi,13
+Japan,Western,1
+USA,Sci-Fi,480
+South Korea,War,3
+Denmark,War,1
+Belgium,Thriller,1
+UK,History,39
+Spain,History,3
+Italy,Action,2
+Iran,Mystery,1
+Russia,Biography,1
+Poland,Horror,1
+,Fantasy,1
+USA,Family,436
+Australia,Western,3
+UK,Family,38
+Panama,Sport,1
+Russia,Comedy,2
+Indonesia,Thriller,1
+Thailand,Drama,2
+West Germany,Drama,2
+Australia,Sci-Fi,13
+Brazil,Thriller,2
+Hungary,Adventure,1
+Hong Kong,Action,14
+Germany,Family,12
+Mexico,Thriller,1
+South Korea,History,2
+UK,Documentary,11
+Canada,Sport,7
+Georgia,Drama,1
+Norway,Drama,6
+Germany,Music,2
+India,Documentary,2
+Ireland,War,1
+Russia,Fantasy,3
+India,Drama,23
+Peru,Romance,1
+New Line,Romance,1
+UK,Music,22
+Germany,Adventure,16
+Canada,Comedy,41
+Israel,History,2
+Belgium,Romance,2
+Spain,Crime,4
+Romania,Comedy,2
+Poland,Drama,5
+Iceland,Crime,1
+Japan,Fantasy,6
